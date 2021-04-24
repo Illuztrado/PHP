@@ -1,0 +1,19 @@
+/*CSS reset settings here*/
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    font-family: Tahoma, 'Segoe UI', Geneva, Verdana, sans-serif
+}
+table{
+    border-collapse: collapse;
+}
+th, td{
+    padding: 10px;
+    border: 1px solid grey;
+}
+.fifthRow {
+    background-color: black;
+    color: white;
+}

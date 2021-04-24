@@ -1,0 +1,26 @@
+/*CSS reset settings here*/
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    height: 400px;
+    width: 400px;
+    margin: 50px auto;
+    font-size: 0;
+}
+.oddColumn, .evenColumn{
+    height: 100px;
+    width: 50px;
+    display: inline-block;
+}
+.red{
+    height: 50px;
+    width: 50px;
+    background-color: red;
+}
+.black{
+    height: 50px;
+    width: 50px;
+    background-color: black;
+}

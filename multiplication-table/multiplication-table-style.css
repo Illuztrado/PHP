@@ -1,0 +1,18 @@
+/*CSS reset settings here*/
+*{
+    margin: 0px;
+    padding: 0px;
+}
+table{
+    border-collapse: collapse;
+}
+th, td{
+    padding: 10px;
+    border: 1px solid black;
+}
+.evenRows {
+    background-color: white;
+}
+.oddRows {
+    background-color: grey;
+}
